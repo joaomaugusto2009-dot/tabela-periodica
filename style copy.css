@@ -1,0 +1,126 @@
+body{
+    font-size: 15px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.947) 0%, rgb(239, 242, 243) 100%);
+    color: rgb(8, 0, 0);
+    text-align: center;
+}
+h1{
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+    text-align: center;
+    table-layout: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+   
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.GasesNobres{
+    border-style: solid ;
+    border-color: black;
+    background-color: #bd4c4e;
+    color: black;
+}
+h2{
+    text-align: left;
+    font-size: 9px;
+}
+.Metaisalcalinos{
+    border-style: solid ;
+    border-color: black;
+    background-color: #c9b334;
+    color: black;
+}
+.Naometais{
+    border-style: solid ;
+    border-color: black;
+background-color: #1f416e;
+color: black;
+}
+.hologenios{
+    border-style: solid ;
+    border-color: black;
+    background-color:#491854;
+    color: black;
+}
+.Metaisalcalinoterrosos{
+    border-style: solid ;
+    border-color: black;
+    background-color: #c22f5b;
+    color: black;
+}
+.Metaisdetransição{
+    border-style: solid ;
+    border-color: black;
+    background-color: #55a11b;
+    color: black;
+}
+.semimetais{
+    border-style: solid ;
+    border-color: black;
+    background-color: #db943d;
+    color: black;
+}
+.outrosmetais{
+    border-style: solid ;
+    border-color: black;
+    background-color: #5fa196;
+    color: black;
+}
+.lantanídeos{
+    border-style: solid ;
+    border-color: black;
+    background-color: #ad70db;
+    color: black;
+}
+.Actinidios{
+    border-style: solid ;
+    border-color: black;
+    background-color: #991a9c;
+    color: black;
+}
+.legendas{
+    border:  solid rgb(3, 0, 0);
+    font-size: 15px;
+    text-align: center;
+    table-layout: fixed;
+    width: 1000px;
+    height: 160px;
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+
+p{
+
+    padding: 5px;
+    text-align:center;
+    color:black;
+    width:10%;
+    font-size: 6px;
+    font-weight: bold;
+}
+
+.borda-branca {
+    border:  solid rgb(2, 0, 0)
+    
+}
+a{
+    color: rgb(88, 8, 84);
+    text-decoration: solid;
+    border-inline: solid;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+} 
